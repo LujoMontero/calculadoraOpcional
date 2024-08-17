@@ -1,6 +1,7 @@
 package org.example.CalculadoraFases;
 
 public class CalculadoraFases {
+
     public int sumas(int a, int b) {
         return a + b;
     }
